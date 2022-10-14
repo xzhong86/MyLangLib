@@ -21,4 +21,6 @@
 Refer to:
  - https://stackoverflow.com/questions/39705213/cross-compiling-rust-from-windows-to-arm-linux
  - see p10-cross-aarch64
+ - Not very usefull:
+ - https://kerkour.com/rust-cross-compilation
 
