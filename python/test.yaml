@@ -1,0 +1,17 @@
+---
+hash-algorithm: aaa
+root-path: bbb
+
+files:
+- path: aaaa/bbb
+  file-name: bbb
+  create-time: 2022-10-12
+  modify-time: 2022-10-13
+  hash-md5: 54d4171213c29db751f37c4cfc5db572
+
+- path: bbbb/ccc
+  file-name: ccc
+  create-time: 2001-01-02
+  modify-time: 2002-02-03
+  hash-md5: a6f419c1e5b7c5bfd5708c6b9fdaedbf
+
