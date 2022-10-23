@@ -7,7 +7,10 @@
   - try with basic grammar
   - try with basic input/output
   - try function, class (if it has)
-  - work with multi source files
+  - () work with multi source files
+  - try with string, split/replace/join/slice
+  - (optional) try regex usage.
+
 
 ## Other
 
